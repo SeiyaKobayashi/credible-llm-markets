@@ -1,0 +1,8 @@
+{
+  "name": "credible-llm-markets",
+  "version": "1.0.0",
+  "repository": "https://github.com/SeiyaKobayashi/credible-llm-markets.git",
+  "author": "SeiyaKobayashi <seiya.kobayashi.work@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
